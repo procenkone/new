@@ -1,0 +1,18 @@
+li{
+    color: rgb(141, 36, 36);
+    cursor: pointer;
+}
+li:hover{
+    color: rgb(80, 13, 204);
+}
+#xxx{
+    background: fuchsia;
+}
+p.target{
+    font-size: 20px;
+    background: saddlebrown;
+}
+
+img{
+    border-radius: 50%;
+}
